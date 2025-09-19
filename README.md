@@ -8,21 +8,21 @@ This repository is a hands-on implementation of what I’ve learned while workin
 
 Here’s a summary of the topics I worked through:
 
-* ✅ DBT Core – Installation and basic commands
-* ✅ Setting up the environment in **VS Code**
-* ✅ DBT Project Structure
-* ✅ Connecting DBT with **Databricks** using the DBT-Databricks plugin
-* ✅ DBT Sources – Defining and using source tables
-* ✅ DBT Models – Building transformation logic in modular SQL files
-* ✅ DBT Seeds – Loading CSV files as source tables
-* ✅ DBT Snapshots – Handling SCD Type-2 changes
-* ✅ DBT Tests – Built-in and custom tests for data validation
-* ✅ Jinja & Macros – Dynamic SQL and reusable logic
-* ✅ Deployment – CI/CD setup for automated DBT runs
+* DBT Core – Installation and basic commands
+* Setting up the environment in **VS Code**
+* DBT Project Structure
+* Connecting DBT with **Databricks** using the DBT-Databricks plugin
+* DBT Sources – Defining and using source tables
+* DBT Models – Building transformation logic in modular SQL files
+* DBT Seeds – Loading CSV files as source tables
+* DBT Snapshots – Handling SCD Type-2 changes
+* DBT Tests – Built-in and custom tests for data validation
+* Jinja & Macros – Dynamic SQL and reusable logic
+* Deployment – CI/CD setup for automated DBT runs
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 * **DBT Core**
 * **Databricks** (for warehouse connection)
@@ -51,18 +51,16 @@ dbt_project/
 │
 ├── dbt_project.yml    # Main config file
 └── README.md
-```
 
----
 
 ## Running the Project
 
 1. **Clone the repo**
 
    ```bash
-   git clone https://github.com/your-username/dbt-project.git
-   cd dbt-project
-   ```
+   git clone https://github.com/Maruthireddy77/DBT_Practice_Project.git
+   cd DBT_Practice_Project
+
 
 2. **Install DBT**
 
@@ -101,6 +99,4 @@ If you’d like to connect or have any questions:
 
 This project was a great learning experience and helped me get hands-on with the full lifecycle of DBT — from setup to deployment. Feel free to explore the code, models, and configurations in this repo!
 
-
-Let me know if you'd like to make this into a GitHub-flavored README with badges or project screenshots.
 
