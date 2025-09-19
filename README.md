@@ -59,7 +59,8 @@ dbt_project/
 
    ```bash
    git clone https://github.com/Maruthireddy77/dbt-analytics-pipeline
-   cd DBT_Practice_Project
+   cd dbt-analytics-pipeline
+
 
 
 2. **Install DBT**
