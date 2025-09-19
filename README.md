@@ -58,7 +58,7 @@ dbt_project/
 1. **Clone the repo**
 
    ```bash
-   git clone https://github.com/Maruthireddy77/DBT_Practice_Project.git
+   git clone https://github.com/Maruthireddy77/dbt-analytics-pipeline
    cd DBT_Practice_Project
 
 
